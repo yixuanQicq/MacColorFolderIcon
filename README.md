@@ -1,4 +1,4 @@
-<strong>Color Folder Icons for MAC!!</strong>
+<strong>Color Folder Icons for MAC!!!</strong>
 
 <p align="left">
   <img src="readme_png/Screen Shot 2019-05-28 at 10.35.09 AM.png" width="350" alt="example">
